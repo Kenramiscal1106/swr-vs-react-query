@@ -1,4 +1,3 @@
-import { fetcher } from "./utils";
 import useSWR from "swr";
 import { Link } from "react-router-dom";
 const fetchPosts = async () => {
